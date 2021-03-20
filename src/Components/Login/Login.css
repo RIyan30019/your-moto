@@ -1,0 +1,53 @@
+.login-form{
+    width: 30%;
+    padding:20px;
+    
+    height: 100%;
+    border-bottom: gray solid 1px;
+    margin: auto;
+    
+ 
+}
+.login-form input{
+
+    border-bottom:black 1px solid;
+
+}
+.social-login{
+    position:relative;
+    float: left;
+    width: 100%;
+    height:auto;
+    padding: 10px 0 15px 0;
+    border-bottom: 1px solid #eee;
+  }
+  .social-login-btn{
+    position:relative;
+    float: left;
+    width:calc(40% - 8px);
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid rgba(0,0,0,0.05);
+    padding: 12px;
+    border-radius: 2px;
+    font-size: 12px;
+    text-transform: uppercase;
+    margin: 0 3%;
+    text-align:center;
+  }
+  .social-login-btn i{
+    position: relative;
+    float: left;
+    width: 20px;
+    top: 2px;
+  }
+  .social-login-btn:first-child{
+    background-color: #49639F;
+  }
+  .social-login-btn:last-child{
+    background-color: #DF4A32;
+  }
+ .acount{
+   color:blue;
+   text-decoration: underline;
+ }

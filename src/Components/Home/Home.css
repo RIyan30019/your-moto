@@ -1,0 +1,23 @@
+.background {
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height:500px;
+    width:100%;
+    
+}
+
+.moto-style img{
+    width:50%;
+    margin-left: auto;
+
+}
+.moto-style{
+    margin:20px;
+    padding: 20px;
+    border-radius:10px;
+}
+
+.vehicle{
+    
+    
+}
